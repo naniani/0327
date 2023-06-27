@@ -2,6 +2,7 @@ package com.ujiuye.bean;
 
 public class User {
 
+    int b = 2;
     private int id;
     private String username;
     private String password;
